@@ -22,4 +22,3 @@ To use this project, you will need to have the necessary dependencies installed.
 Clone the repository.
 Install the required libraries (e.g., Pandas, Scikit-Learn)
 Run the main script to execute the machine learning models and generate the results.
-For more detailed instructions, please refer to the project documentation.
