@@ -6,11 +6,11 @@ The dataset utilized in this project encompasses a comprehensive period from 201
 
 **Algorithms** <br>
 For this project, we used the following machine-learning algorithms: <br>
-*Logistic Regression <br>
-*Decision Tree <br>
-*Random Forest <br>
-*Support Vector Machine (SVM) <br>
-*k-Nearest Neighbors (k-NN) <br>
+-Logistic Regression <br>
+-Decision Tree <br>
+-Random Forest <br>
+-Support Vector Machine (SVM) <br>
+-k-Nearest Neighbors (k-NN) <br>
 
 The Random Forest and Support Vector Machine algorithms performed well in predicting and clustering accident severity. <br>
 
