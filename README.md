@@ -5,14 +5,14 @@ This project seamlessly integrates machine learning algorithms to predict and cl
 The dataset utilized in this project encompasses a comprehensive period from 2017 to 2020, comprising 12,316 rows and 32 columns. This data, obtained directly from the Addis Ababa Sub-City Police Department, serves as the foundation for the analysis.
 
 **Algorithms** <br>
-For this project, we used the following machine-learning algorithms:
-Logistic Regression
-Decision Tree
-Random Forest
-Support Vector Machine (SVM)
-k-Nearest Neighbors (k-NN)
+For this project, we used the following machine-learning algorithms: <br>
+*Logistic Regression <br>
+*Decision Tree <br>
+*Random Forest <br>
+*Support Vector Machine (SVM) <br>
+*k-Nearest Neighbors (k-NN) <br>
 
-The Random Forest and Support Vector Machine algorithms performed well in predicting and clustering accident severity.
+The Random Forest and Support Vector Machine algorithms performed well in predicting and clustering accident severity. <br>
 
 **Results** <br>
 The machine learning models were able to effectively predict and cluster the severity of accidents based on the provided data. The Random Forest and Support Vector Machine algorithms demonstrated the most suitable performance for this task.
