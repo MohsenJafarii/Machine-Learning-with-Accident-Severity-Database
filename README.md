@@ -23,6 +23,3 @@ Clone the repository.
 Install the required libraries (e.g., Pandas, Scikit-Learn)
 Run the main script to execute the machine learning models and generate the results.
 For more detailed instructions, please refer to the project documentation.
-
-**Contributing** <br>
-If you would like to contribute to this project, please feel free to submit a pull request or open an issue.
